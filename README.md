@@ -17,9 +17,11 @@ This is a simple keylogger built using Python's `pynput` library. It records key
    cd keylogger-project
 
 2. **Install dependencies**:
+   ```bash
    pip install -r requirements.txt
 
-3. **Run the keylogger**:
+4. **Run the keylogger**:
+   ```bash
    python keylogger.py
 
 ## ❌ How to Stop It
