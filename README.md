@@ -15,3 +15,18 @@ This is a simple keylogger built using Python's `pynput` library. It records key
    ```bash
    git clone https://github.com/yourusername/keylogger-project.git
    cd keylogger-project
+
+2. **Install dependencies**:
+   pip install -r requirements.txt
+
+3. **Run the keylogger**:
+   python keylogger.py
+
+## ❌ How to Stop It
+- Press the Esc key to stop logging.
+- Alternatively, use Ctrl + C in the terminal.
+
+## 📌 Notes
+- The logs are stored in keylog.txt in the same folder.
+- For security reasons, do not use this on any unauthorized system.
+
